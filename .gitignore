@@ -13,6 +13,7 @@ Icon
 /test
 /train
 data/
+logs/
 
 # Sphinx
 docs/_build
